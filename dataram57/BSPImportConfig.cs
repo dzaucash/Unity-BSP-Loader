@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
+
 namespace Dataram57.BSPImporter
 {
     [CreateAssetMenu(fileName = "config", menuName = "Dataram57/BSP Import Config", order = 1)]
